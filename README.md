@@ -5,7 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-AnMalaque-181717?style=flat&logo=github)](https://github.com/AnMalaque)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexandermalaque-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandermalaque/)
 [![Facebook](https://img.shields.io/badge/Facebook-NullExpressions-1877F2?style=flat&logo=facebook)](https://www.facebook.com/NullExpressions/)
-[![Discord](https://img.shields.io/badge/Discord-1081771616410800229-5865F2?style=flat&logo=discord)](https://discord.com/users/1081771616410800229)
 
 ---
 
@@ -68,6 +67,5 @@ A customized fork of [Uptime Kuma](https://github.com/louislam/uptime-kuma), ada
 - Email: [anciedev.carrd.co](https://anciedev.carrd.co)
 - LinkedIn: [alexandermalaque](https://www.linkedin.com/in/alexandermalaque/)
 - GitHub: [AnMalaque](https://github.com/AnMalaque)
-- Discord: [1081771616410800229](https://discord.com/users/1081771616410800229)
 - Facebook: [NullExpressions](https://www.facebook.com/NullExpressions/) · [MelonSquare Interactive](https://www.facebook.com/profile.php?id=61565288005284)
 
